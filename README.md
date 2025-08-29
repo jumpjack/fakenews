@@ -1,7 +1,7 @@
 # fakenews
 Historical archive of AI fake news
 
-Everything started on **July 2025**, when it was announced the upcoming announcement of imminent **worldwide** eclipse on august 12th.
+Everything started on **July 2025**, when it was announced the imminent **worldwide** eclipse on august 12th.
 
 Given that no eclipse can be worldwide, this news was quite suspicious. But it got replicated, retwitted and reposted everywhere.... until August 12th, when nothing happened... because the eclipse is [schduled for August 12th... but 2026](https://it.wikipedia.org/wiki/Eclissi_solare_del_12_agosto_2026)!
 
